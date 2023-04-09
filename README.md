@@ -6,9 +6,9 @@ _Obscure but simple way for checking the status of your Czech Visa application u
 
 **_This bot/scrapper was created for two purposes:_**
 
-- **Automation of a repetitive mundane task**
+- **_Automation of a repetitive mundane task_**
 
-- **Education**
+- **_Education_**
 
 **_I have decided to share the code for same reasons. Also fun._**
 
