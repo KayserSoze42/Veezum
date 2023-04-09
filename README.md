@@ -17,7 +17,7 @@ _Obscure but simple way for checking the status of your Czech Visa application u
 than two times per day._**
 
 
-**_I suspect that even that number might be an overkill_**
+**_I suspect that even that number might be an overkill._**
 
 --------------------
 
@@ -70,6 +70,10 @@ than two times per day._**
                 08:00,16:00
       
         + veezum_token - Telegram HTTP API Token
+      
+- **Step 4: Profit?**
+
+    * _Start the bot and pray_
 
 --------------------
 
