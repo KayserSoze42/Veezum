@@ -57,7 +57,7 @@ than two times per day._**
   
     * Build your own using _python -m build_
 
-- **Step 3: Set up the Environment Variables:**
+- **Step 3: Set up the Environment Variables**
 
     * Veezum scrapper gets all the attributes required passed through with the Environment Variables
   
