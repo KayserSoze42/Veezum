@@ -2,7 +2,7 @@
 
 _Obscure but simple way for checking the status of your Czech Visa application using **selenium** and **telegram**_
 
-## Disclaimer:
+## Disclaimer
 
 **_This bot/scrapper was created for two purposes:_**
 
@@ -55,7 +55,7 @@ than two times per day._**
   
             pip install Veezum-<Version Number>.tar.gz
   
-    * Build your own using python -m build
+    * Build your own using _python -m build_
 
 - **Step 3: Set up the Environment Variables:**
 
@@ -73,7 +73,7 @@ than two times per day._**
 
 --------------------
 
-## Requirements:
+## Requirements
 
     schedule
     selenium
@@ -86,7 +86,7 @@ than two times per day._**
 
 --------------------
 
-## Planned Changes:
+## Planned Changes
 
 - Improve Exception / Error Handling
 
