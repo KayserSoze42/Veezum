@@ -4,7 +4,7 @@ _Obscure but simple way for checking the status of your Czech Visa application u
 
 ## Disclaimer
 
-**_This bot/scrapper was created for two purposes:_**
+**_This bot/scraper was created for two purposes:_**
 
 - **_Automation of a repetitive mundane task_**
 
@@ -59,7 +59,7 @@ than two times per day._**
 
 - **Step 3: Set up the Environment Variables**
 
-    * Veezum scrapper gets all the attributes required passed through with the Environment Variables
+    * Veezum scraper gets all the attributes required passed through with the Environment Variables
   
         + veezum_ids - List of IDs provided by the Embassy, in format:
       
